@@ -1,0 +1,14 @@
+.tip{
+    width: 20%;
+    height: auto;
+    background-color: rgb(124, 174, 218);
+    border-radius: 1rem;
+    padding: 1rem;
+}
+
+.pointer{
+    margin-left: 5%;
+    margin-top: 0.2%;
+    font-size: 2rem;
+    color: rgb(124, 174, 218);
+}
