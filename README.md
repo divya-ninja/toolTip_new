@@ -1,3 +1,5 @@
+## A simple tooltip made using ReactJS. It will show the tip on hovering over the button.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
