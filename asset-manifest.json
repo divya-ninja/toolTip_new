@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/toolTip_new/static/css/main.4347a0d2.chunk.css",
+    "main.js": "/toolTip_new/static/js/main.2965fe2b.chunk.js",
+    "main.js.map": "/toolTip_new/static/js/main.2965fe2b.chunk.js.map",
+    "runtime-main.js": "/toolTip_new/static/js/runtime-main.0b573fac.js",
+    "runtime-main.js.map": "/toolTip_new/static/js/runtime-main.0b573fac.js.map",
+    "static/js/2.ed37dcb5.chunk.js": "/toolTip_new/static/js/2.ed37dcb5.chunk.js",
+    "static/js/2.ed37dcb5.chunk.js.map": "/toolTip_new/static/js/2.ed37dcb5.chunk.js.map",
+    "static/js/3.d5c1e0ec.chunk.js": "/toolTip_new/static/js/3.d5c1e0ec.chunk.js",
+    "static/js/3.d5c1e0ec.chunk.js.map": "/toolTip_new/static/js/3.d5c1e0ec.chunk.js.map",
+    "index.html": "/toolTip_new/index.html",
+    "static/css/main.4347a0d2.chunk.css.map": "/toolTip_new/static/css/main.4347a0d2.chunk.css.map",
+    "static/js/2.ed37dcb5.chunk.js.LICENSE.txt": "/toolTip_new/static/js/2.ed37dcb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0b573fac.js",
+    "static/js/2.ed37dcb5.chunk.js",
+    "static/css/main.4347a0d2.chunk.css",
+    "static/js/main.2965fe2b.chunk.js"
+  ]
+}
